@@ -1,0 +1,24 @@
+{
+  "title": "English Grammar Tenses",
+  "subtitle": "Complete tense reference with examples",
+  "table": {
+    "tense": "Tense",
+    "affirmative": "Affirmative",
+    "negative": "Negative",
+    "question": "Question"
+  },
+  "tenses": {
+    "presentSimple": "Present Simple",
+    "presentContinuous": "Present Continuous",
+    "presentPerfect": "Present Perfect",
+    "presentPerfectContinuous": "Present Perfect Continuous",
+    "pastSimple": "Past Simple",
+    "pastContinuous": "Past Continuous",
+    "pastPerfect": "Past Perfect",
+    "pastPerfectContinuous": "Past Perfect Continuous",
+    "futureSimple": "Future Simple",
+    "futureContinuous": "Future Continuous",
+    "futurePerfect": "Future Perfect",
+    "futurePerfectContinuous": "Future Perfect Continuous"
+  }
+}
